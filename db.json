@@ -1,0 +1,39 @@
+{
+  "cart": [
+    {
+      "id": 2,
+      "name": "furs",
+      "price": "150",
+      "quantity": 6
+    },
+    {
+      "id": 1,
+      "name": "blazer",
+      "price": "259",
+      "quantity": 18
+    },
+    {
+      "id": 3,
+      "name": "shirt",
+      "price": "555",
+      "quantity": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "blazer",
+      "price": "259"
+    },
+    {
+      "id": 2,
+      "name": "furs",
+      "price": "150"
+    },
+    {
+      "id": 3,
+      "name": "shirt",
+      "price": "555"
+    }
+  ]
+}
